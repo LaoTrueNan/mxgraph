@@ -1,0 +1,8 @@
+package com.ruoyi.sfc.service.impl;
+
+import com.ruoyi.sfc.service.ISFCService;
+import org.springframework.stereotype.Service;
+
+@Service
+public class SFCServiceImpl implements ISFCService {
+}
